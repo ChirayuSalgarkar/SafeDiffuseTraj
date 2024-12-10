@@ -24,7 +24,7 @@ Refer to CleanDiffuserTeam documentation for further questions.
 
 diffusionsde.py
 Standard SDE for implementation of diffusion model.
-hjdiffusersde.py: 
+hjsafediffusersde.py: 
 diffuser with Reachability implementation
 
 planeworldtrail.py
